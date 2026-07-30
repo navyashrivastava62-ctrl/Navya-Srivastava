@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Navya Srivastava | Portfolio</title>
+
+  <style>
+    *{
+      margin:0;
+      padding:0;
+      box-sizing:border-box;
+      font-family:Arial, Helvetica, sans-serif;
+    }
+
+    body{
+      background:#0d1117;
+      color:#fff;
+      line-height:1.6;
+    }
+
+    header{
+      background:#161b22;
+      text-align:center;
+      padding:50px 20px;
+    }
+
+    header h1{
+      font-size:3rem;
+      color:#58a6ff;
+    }
+
+    header p{
+      font-size:1.2rem;
+      margin-top:10px;
+      color:#c9d1d9;
+    }
+
+    section{
+      max-width:1000px;
+      margin:auto;
+      padding:40px 20px;
+    }
+
+    h2{
+      color:#58a6ff;
+      margin-bottom:20px;
+      border-bottom:2px solid #30363d;
+      display:inline-block;
+      padding-bottom:5px;
+    }
+
+    ul{
+      margin-left:20px;
+    }
+
+    .skills{
+      display:flex;
+      flex-wrap:wrap;
+      gap:10px;
+    }
+
+    .skill{
+      background:#21262d;
+      padding:10px 18px;
+      border-radius:20px;
+    }
+
+    .links a{
+      display:inline-block;
+      margin:10px;
+      text-decoration:none;
+      color:white;
+      background:#238636;
+      padding:10px 20px;
+      border-radius:8px;
+      transition:.3s;
+    }
+
+    .links a:hover{
+      background:#2ea043;
+    }
+
+    footer{
+      text-align:center;
+      padding:20px;
+      background:#161b22;
+      margin-top:30px;
+    }
+
+    blockquote{
+      margin-top:20px;
+      padding:15px;
+      border-left:4px solid #58a6ff;
+      background:#161b22;
+      font-style:italic;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>Hi 👋, I'm Navya Srivastava</h1>
+  <p>🚀 First-Year CSE Student | Aspiring Software Developer | Open Source Enthusiast</p>
+</header>
+
+<section>
+  <h2>👩‍💻 About Me</h2>
+
+  <ul>
+    <li>🎓 First-Year B.Tech CSE Student at ABES Engineering College</li>
+    <li>🌱 Currently learning HTML, CSS, JavaScript & Data Structures and Algorithms</li>
+    <li>💻 Exploring Web Development and Open Source</li>
+    <li>🎯 Goal: Crack GSoC 2027 and secure Software Development internships</li>
+    <li>📚 Passionate about learning new technologies every day</li>
+  </ul>
+</section>
+
+<section>
+
+<h2>🛠 Tech Stack</h2>
+
+<div class="skills">
+<div class="skill">C</div>
+<div class="skill">C++</div>
+<div class="skill">HTML5</div>
+<div class="skill">CSS3</div>
+<div class="skill">JavaScript</div>
+<div class="skill">Git</div>
+<div class="skill">GitHub</div>
+<div class="skill">VS Code</div>
+</div>
+
+</section>
+
+<section>
+
+<h2>📈 Coding Profiles</h2>
+
+<div class="links">
+<a href="https://github.com/navyashrivastava62-ctrl" target="_blank">GitHub</a>
+
+<a href="https://leetcode.com/u/Navya_Srivastava1606/" target="_blank">LeetCode</a>
+
+</div>
+
+</section>
+
+<section>
+
+<h2>📌 Current Focus</h2>
+
+<ul>
+<li>🌐 Building Responsive Websites</li>
+<li>🧠 Improving Data Structures & Algorithms</li>
+<li>🤝 Contributing to Open Source</li>
+<li>🚀 Preparing for GSoC 2027</li>
+</ul>
+
+</section>
+
+<section>
+
+<h2>💡 Quote</h2>
+
+<blockquote>
+"Consistency beats talent when talent doesn't stay consistent."
+</blockquote>
+
+</section>
+
+<footer>
+
+<h3>⭐ Thanks for Visiting My Portfolio!</h3>
+
+<p>Feel free to explore my repositories and connect with me.</p>
+
+</footer>
+
+</body>
+</html>
