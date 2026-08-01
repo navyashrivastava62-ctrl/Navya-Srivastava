@@ -3,7 +3,7 @@
 - 🎓 First-year B.Tech CSE student at **ABES Engineering College**
 - 🌱 Currently learning **HTML, CSS, JavaScript & Data Structures and Algorithms**
 - 💻 Exploring **Web Development** and **Open Source**
-- 🎯 Goal: Crack **GSoC 2027** and land great software internships
+
 - 📚 Always learning something new every day
 
 ---
